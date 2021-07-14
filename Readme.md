@@ -1,1 +1,1 @@
-Smart Home Management System
+Smart Home  Management System
